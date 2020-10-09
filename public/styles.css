@@ -1,0 +1,31 @@
+body, html {
+    height: 100%;
+  }
+.empty{
+    height: 100px;
+}
+.background-img {
+    /* The image used */
+    background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
+  
+    /* Half height */
+    height: 50%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .oval{
+    width: 100px;
+    height: 100px;
+    background-image: url("./IMG-20200131-WA0008.jpg");
+    border-radius: 40px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+ .bttn{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
